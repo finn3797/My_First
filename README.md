@@ -1,2 +1,2 @@
 # My_First
-JUST  TRY
+This python scripy can batch download fastsq file by ascp
